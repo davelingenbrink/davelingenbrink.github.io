@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dave Lingenbrink"
 title_separator          : "-"
-name                     : &name "Dave LIngenbrink"
+name                     : &name "Dave Lingenbrink"
 description              : &description "personal description"
 url                      : https://davelingenbrink.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dave Lingenbrink"
   avatar           : "profile.png"
-  bio              : "Sketch Comedy"
+  bio              : "Comedian and Actor"
   location         : "New York, NY"
   employer         :
   email            :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "davelastname"
+  twitter          : "Dave_LastName"
   vine             :
   weibo            :
   xing             :
