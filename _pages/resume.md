@@ -1,5 +1,6 @@
 ---
 permalink: /resume/
+layout: archive
 title: "Resume"
 excerpt: "Resume of my comedic exploits"
 author_profile: true
