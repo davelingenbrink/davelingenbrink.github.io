@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Dave Lingenbrink is a comedian and actor located in New York, NY. 
+Dave Lingenbrink is a comedian and actor located in New York, NY.
 
 
 Dave Lingenbrink is also David Lingenbrink, an academic and much more serious
-person.  His info is available [here](davidlingenbrink.com).
+person.  His info is available [here](http://www.davidlingenbrink.com).
