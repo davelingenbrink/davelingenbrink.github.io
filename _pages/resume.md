@@ -2,7 +2,6 @@
 permalink: /
 title: "Resume"
 excerpt: "Resume of my comedic exploits"
-author_profile: true
 redirect_from:
   - /resume/
   - /resume.html
