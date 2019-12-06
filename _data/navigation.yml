@@ -3,8 +3,5 @@ main:
   - title: "Sketches"
     url: /sketches/
 
-  - title: "Photos"
-    url: /photos/
-
   - title: "Resume"
     url: /resume/
