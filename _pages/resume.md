@@ -1,10 +1,8 @@
 ---
-permalink: /
+permalink: /resume/
 title: "Resume"
 excerpt: "Resume of my comedic exploits"
-redirect_from:
-  - /resume/
-  - /resume.html
+author_profile: true
 ---
 
 
