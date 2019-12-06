@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Resume"
-excerpt: "Reume of my comedic exploits"
+excerpt: "Resume of my comedic exploits"
 author_profile: true
 redirect_from:
   - /resume/
@@ -15,8 +15,8 @@ redirect_from:
   * Lead production and shooting of video sketches and videotaped performances
   * Wrote and performed show at Edinburgh Fringe Festival in 2017 and 2018
   * Performed at National College Comedy Festival (2015-2018) and Brown College Comedy Conference (2015, 2017)
-* Channel 101, 2016
-  * ["Our Place in the Stars"](https://www.youtube.com/watch?v=nCuEoNhsdD8) was nominated for Best Failed Pilot award, 2016.
+* Channel 101
+  * ["Our Place in the Stars"](https://www.youtube.com/watch?v=nCuEoNhsdD8) was nominated for the 2016 Best Failed Pilot award.
 
 
 ## Performing Education
