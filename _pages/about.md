@@ -9,8 +9,10 @@ redirect_from:
 ---
 Dave Lingenbrink is a comedian and actor located in New York, NY.  He primarily does sketch comedy.  
 
+<img src="images/nick.jpg" class="img-responsive" alt=""> </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nCuEoNhsdD8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<!--
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nCuEoNhsdD8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
 
 
 Dave Lingenbrink is also David Lingenbrink, an academic and much more serious
